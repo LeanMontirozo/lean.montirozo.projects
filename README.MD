@@ -1,4 +1,4 @@
-# Music Database API
+# Music API
 
 A simple music database API built with Node.js, Express, and MongoDB. This API allows you to perform CRUD operations (Create, Read, Update, Delete) on music tracks. It also serves a React frontend from the `client` directory.
 
